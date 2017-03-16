@@ -1,6 +1,4 @@
-/**
- * Created by Shahrukh on 8/15/2016.
- */
+
 
 function Process(name, callback) {
 	this.name = name;

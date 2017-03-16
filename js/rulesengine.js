@@ -1,11 +1,8 @@
-/**
- * Created by Shahrukh on 8/9/2016.
- */
 
 
 
 function Rule() {
-    
+
 }
 
 
@@ -16,5 +13,5 @@ function Rule() {
 * This engine can dynamically or statically process an Object to check if all of the rules validate and allows for custom callback on errors.
 * */
 function RulesEngine() {
-    
+
 }

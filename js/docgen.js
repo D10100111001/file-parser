@@ -1,6 +1,5 @@
 /**
  * |#Module#|: DocumentationGenerator
- * |#Author#|: Shahrukh
  * |#Language#|: C#
  * |#CreationDate#|: 8/9/2016
  *
@@ -45,7 +44,7 @@ DocumentationGenerator.prototype.parse = function(fileName, fileText) {
     fileText.split("\n").forEach(function(line) {
         if (line)
             return;
-        
+
     });
 };
 

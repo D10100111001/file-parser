@@ -1,6 +1,3 @@
-/**
- * Created by Shahrukh on 7/31/2016.
- */
 
 function DataReader(ArrBuffer) {
     var position = 0;

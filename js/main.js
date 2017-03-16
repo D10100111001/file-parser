@@ -1,6 +1,4 @@
-/**
- * Created by Shahrukh on 7/31/2016.
- */
+
 var spec = [
     { name: "MS-DOS Header", properties:
         [ "magic",
